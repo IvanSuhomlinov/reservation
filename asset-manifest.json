@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ivansuhomlinov/static/css/main.a66c690d.css",
+    "main.js": "/ivansuhomlinov/static/js/main.95789b79.js",
+    "index.html": "/ivansuhomlinov/index.html",
+    "main.a66c690d.css.map": "/ivansuhomlinov/static/css/main.a66c690d.css.map",
+    "main.95789b79.js.map": "/ivansuhomlinov/static/js/main.95789b79.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a66c690d.css",
+    "static/js/main.95789b79.js"
+  ]
+}
